@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Tinbite 👋
 
-<!--
-**Zeltinbit/Zeltinbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Java
+- Python
+- Data Structures & Algorithms
+
+## 2026 Goals
+
+- Build 20+ quality projects
+- Become a Full Stack Developer
+- Learn Cloud & DevOps
+- Contribute to Open Source
+
+Thanks for visiting my profile!
